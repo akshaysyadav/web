@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+color: #1b74e4;}
+button{ background-color: black;
+    color: #efe2e2;
+
+}
+*{
+    background-color: azure;
+}
+p a {
+    color: #000;
+    background-color: beige;
+}
+p+h3{
+    text-decoration: underline chocolate;
+}
+div > input{
+    background-color: aquamarine;
+}
